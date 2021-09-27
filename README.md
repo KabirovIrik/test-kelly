@@ -9,7 +9,7 @@
 
 ## Итог
 
-- Kabriov_analysis_test.ipynb - ноутбук с анализом, если что его можно посмотреть тут https://gist.github.com/KabirovIrik/246c2d4cf8c0749489c1c719385e5fa7 (доступно только по прямой ссылке)
+- Kabriov_analysis_test.ipynb - ноутбук с анализом
 - Kabirov_run.py - скрипт для запуска модели. Он ищет файл test.xlsx, преобразует его, делает предсказание и записывает данные в файл predicted_values.csv
 - requirements.txt - файл версий для библиотек в Kabirov_run.py
 - 
